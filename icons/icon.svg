@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">一手ログ</title>
+  <rect width="512" height="512" rx="96" fill="#2f6f5e" />
+  <path d="M96 146c0-27 22-49 49-49h222c27 0 49 22 49 49v220c0 27-22 49-49 49H145c-27 0-49-22-49-49V146Z" fill="#fffdf8" />
+  <path d="M146 170h220" stroke="#d7ded9" stroke-width="22" stroke-linecap="round" />
+  <path d="M146 250h148" stroke="#c75f50" stroke-width="22" stroke-linecap="round" />
+  <path d="M146 330h220" stroke="#346f92" stroke-width="22" stroke-linecap="round" />
+  <circle cx="370" cy="250" r="38" fill="#2f6f5e" />
+  <path d="m351 250 13 14 28-31" fill="none" stroke="#fffdf8" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
